@@ -1,2 +1,3 @@
 # Railsgrils
-sample example
+Hello RailsGirlsDaNang.
+I am Duyen
